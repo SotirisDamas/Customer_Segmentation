@@ -9,7 +9,7 @@ These insights enable data-driven decision-making for:
 - Revenue growth
 
 ---
-# **Dataset: [Online Retail](https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset/data)**
+# **[Online Retail Dataset](https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset/data)**
 
 This dataset contains transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered online retailer. Below is the description of the columns in the dataset:
 
